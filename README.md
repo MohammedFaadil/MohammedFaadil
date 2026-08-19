@@ -28,21 +28,3 @@
 </div>
 
 ---
-
-### 🪄 The Blueprint
-
-```typescript
-const faadil: EngineerProfile = {
-  alias: "The Context Whisperer",
-  status: "Optimizing token budgets & chasing drop shots 🏸",
-  coreRuntime: [
-    "Autonomous Multi-Agent Swarms",
-    "Deterministic Zero-Hallucination Backends",
-    "Clean, Animated Web Interfaces"
-  ],
-  offlineHandler: () => {
-    return court.badminton.findPlayer("Mohammed Faadil") 
-      ?? bookStore.browseSection("Philosophy & Fiction")
-      ?? writeProse({ mood: "existential", chai: true });
-  }
-};
