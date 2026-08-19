@@ -1,11 +1,11 @@
 <div align="center">
 
-  <!-- Animated Dynamic Header Wave with Cursive-Style Font (Caveat) and Harmonized Theme Colors -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,12,24,31&height=195&section=header&text=Mohammed%20Faadil&fontFamily=Caveat&fontSize=52&fontColor=CBA6F7&animation=fadeIn&fontAlignY=36&desc=AI%20Engineer%20•%20Full-Stack%20Crafter%20•%20Storyteller&descFontFamily=Fira%20Code&descFontSize=17&descAlignY=62&descColor=F9E2AF"/>
+  <!-- Animated Dynamic Header Wave with Embedded Subtitle -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,12,24,31&height=190&section=header&text=Mohammed%20Faadil%20&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20•%20Full-Stack%20Crafter%20•%20Storyteller&descFontSize=18&descAlignY=62&descColor=f9e2af"/>
 
-  <!-- Typing SVG with Offline Badminton Notice & Clean Palette -->
+  <!-- Fixed & Strictly URL-Encoded Typing SVG -->
   <p align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&pause=1000&color=F38BA8&center=true&vCenter=true&width=620&lines=Brewing+AI+agents+that+do+not+hallucinate;If+I+am+offline%2C+I+am+for+sure+in+the+badminton+court;Crafting+stories+and+collecting+books;Turning+coffee+and+chai+into+clean+code" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=19&pause=1000&color=F38BA8&center=true&vCenter=true&width=560&lines=Brewing+AI+agents+that+do+not+hallucinate;If+I+am+offline%2C+I+am+for+sure+in+the+badminton+court;Crafting+poetry+and+occassional+writer;Turning+coffee+and+chai+into+clean+code" alt="Typing SVG" />
   </p>
 
   <!-- Modern Rounded Badges -->
