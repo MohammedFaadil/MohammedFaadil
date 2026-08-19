@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- Animated Dynamic Header Wave with Embedded Subtitle -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,12,24,31&height=190&section=header&text=Mohammed%20Faadil%20&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20•%20Full-Stack%20Crafter%20•%20Storyteller&descFontSize=18&descAlignY=62&descColor=f9e2af"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,12,24,31&height=190&section=header&text=Mohammed%20Faadil%20&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20•%20Full-Stack%20Crafter%20•%20Writer&descFontSize=18&descAlignY=62&descColor=f9e2af"/>
 
   <!-- Fixed & Strictly URL-Encoded Typing SVG -->
   <p align="center">
